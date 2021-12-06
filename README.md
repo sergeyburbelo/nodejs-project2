@@ -1,5 +1,5 @@
 # nodejs-project
 
-#npm i - to install npm packages
+# npm i - to install npm packages
 
-#npm run start - to run server
+# npm run start - to run server
